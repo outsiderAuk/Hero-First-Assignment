@@ -10,43 +10,38 @@
   font-optical-sizing: auto;
 }
 
+
+.logo{
+    margin-top: 18px;
+    margin-bottom: 16px;
+}
+
 nav{
 
-    max-width: 1600px;
-    height: 92px;
-    margin: auto;
+    width: 100%;
+    max-height: 92px;
+    margin: 0 auto;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
-    padding: 16px 120px 16px 120px;
+    
     
 }
 
 nav .menu{
-    max-width: 365px;
+   
     display: flex;
     list-style-type: none;
     gap: 32px;
     align-items: center;
-    margin: 16px 24px;
-   
-    
+       
 }
 
-nav .logo img {
-
-    width: ;
-}
 
 nav .menu a{
-    font-size: 16px;
-    font-weight: 500;
-    color: #000000;
-    text-decoration: none;
-    margin: 16px 24px;
-    justify-content: space-between;
-    align-items: center;
     
+    color: #000000;
+    text-decoration: none;    
     
 }
 
@@ -66,5 +61,5 @@ nav .menu a:hover{
 }
 
 .btn:hover {
-    background-color: #259954; /
+    background-color: #259954; 
 }
