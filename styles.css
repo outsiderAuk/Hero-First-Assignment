@@ -93,13 +93,13 @@ nav .menu a:hover{
 
 #access{
     width: 229px;
-    height: 35px;
+    height: 36px;
     background-color: white;
     color: #30b868;
     display: inline-block;
     font-size: 16px;
     border-radius: 1000px;
-    padding: 8px 12px 8px 12px;
+    padding: 8px 12px 8px 34px;
     margin-bottom:16px;
     margin-top: 120.5px;
 }
