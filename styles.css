@@ -45,7 +45,7 @@ nav .menu a{
     
 }
 
-.btn1{
+#btn1{
     background-color: #30b868;
     color: #ffffff;
     font-size: 16px;
@@ -60,7 +60,7 @@ nav .menu a:hover{
     color:#30b868
 }
 
-.btn1:hover {
+#btn1:hover {
     background-color: #259954; 
 }
 
@@ -229,3 +229,47 @@ nav .menu a:hover{
     height: 20px;
 }
 
+
+#think-more{
+
+    padding: 2px 120px 120px 120px;
+    text-align: center;
+    border-radius: 12px;
+}
+
+.ready{
+    padding: 80px 40px;
+    background-color: #f7f6f2;
+}
+
+#think-more h2{
+    margin-bottom: 16px;
+    font-size: 40px;
+    color: #000000;
+}
+
+#think-more p{
+    margin-bottom: 24px;
+    color: #627382;
+}
+
+#ready-text{
+    margin-top: 16px;
+    color: #627382;
+}
+
+#btn4{
+    background-color: #30b868;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    padding: 12.5px 15px;
+    border-radius: 4px;
+}
+
+
+#btn4:hover {
+    background-color: #259954; 
+}
